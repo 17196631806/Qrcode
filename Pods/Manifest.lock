@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.0.2)
+  - MTBBarcodeScanner (5.0.1)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI (= 2.3.1)
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - Masonry
+  - MTBBarcodeScanner
+  - ReactiveCocoa (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MTBBarcodeScanner: 66c75f40cbac5986c97634a0775bfe7f92243e7c
+  ReactiveCocoa: 3fe9b233ca6db810e86681b5749488564c1179a1
+
+PODFILE CHECKSUM: e0b3120045ec0b75bc6c3e0bff86bc59592178d9
+
+COCOAPODS: 1.1.1
